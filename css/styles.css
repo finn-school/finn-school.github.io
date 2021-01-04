@@ -3957,7 +3957,7 @@ input[type=button].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #1abc9c;
+  background-color: #1a9ebc;
 }
 
 .nav-fill .nav-item {
@@ -10102,6 +10102,7 @@ h3 {
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.8rem;
+  background-color: gray;
 }
 
 @media (min-width: 992px) {
