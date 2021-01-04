@@ -67,6 +67,8 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
+  background-image: url(https://cdn.discordapp.com/attachments/586232050563153941/795571292496461854/background_pattern.jpg);
+  background-repeat: repeat;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
