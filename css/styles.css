@@ -5523,6 +5523,7 @@ a.close.disabled {
   position: relative;
   flex: 1 1 auto;
   padding: 4rem 1rem;
+  background-color: gray;
 }
 
 .modal-footer {
@@ -6633,6 +6634,7 @@ button.bg-dark:focus {
 
 .justify-content-center {
   justify-content: center !important;
+  background-color: gray;
 }
 
 .justify-content-between {
