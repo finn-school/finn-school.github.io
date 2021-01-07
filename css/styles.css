@@ -70,6 +70,7 @@ body {
   background-color: #fff;
   background-image: url(https://cdn.discordapp.com/attachments/586232050563153941/795571292496461854/background_pattern.jpg);
   background-repeat: repeat;
+  background-size: 75px;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -10178,7 +10179,7 @@ h3 {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: #376dc4d9;
+  background-color: #376dc4d8;
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
